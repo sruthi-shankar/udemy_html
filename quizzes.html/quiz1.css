@@ -1,0 +1,21 @@
+body{
+    background-color: orange;
+}
+h1 h2 h3{
+    color: #000000;
+}
+.firstol{
+    border: 2px solid black ;
+}
+
+.firstol li{
+    border: 2px solid black ;
+}
+#special{
+    color:yellow
+}
+.styling{
+    color:blue;
+    size:20px;
+    background-color: yellow;
+}
